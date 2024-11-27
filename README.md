@@ -4,7 +4,7 @@
 🌍 **Location**: Muvattupuzha, Kerala, India  
 📫 **Email**: [johnsgeorge320@gmail.com](mailto:johnsgeorge320@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/johns-george-pythondev](https://linkedin.com/in/johns-george-pythondev)  
-📂 **GitHub**: [github.com/johnsgeorge1812](https://github.com/johnsgeorge1812)  
+📂 **GitHub**: [github.com/johnsgeorgepythondev](https://github.com/johnsgeorgepythondev)  
 
 ---
 
@@ -58,7 +58,7 @@ I'm always excited to collaborate on new projects or discuss innovative ideas. F
 
 📫 **Email**: [johnsgeorge320@gmail.com](mailto:johnsgeorge320@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/johns-george-pythondev](https://linkedin.com/in/johns-george-pythondev)  
-📂 **GitHub**: [github.com/johnsgeorge1812](https://github.com/johnsgeorge1812)  
+📂 **GitHub**: [github.com/johnsgeorgepythondev](https://github.com/johnsgeorgepythondev)  
 
 ---
 
