@@ -1,68 +1,77 @@
 # 👋 Hi, I'm **Johns George Kurukoor**  
-### Python Django Developer  
-📍 Muvattupuzha, Kerala, India  
+### 🚀 Python Django Developer  
 
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
-
----
-
-### 🛠️ **Technical Skills**
-- **Languages & Frameworks**: Python, Django, HTML, CSS, JavaScript  
-- **Cloud & Tools**: PythonAnywhere, AWS, Unix  
-- **Soft Skills**: Communication, Active Listening, Teamwork, Time Management  
+🌍 Based in **Muvattupuzha, Kerala, India**  
+📫 **Email**: [johnsgeorge320@gmail.com](mailto:johnsgeorge320@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/johns-george-pythondev](https://linkedin.com/in/johns-george-pythondev)  
+📁 **GitHub**: [github.com/johnsgeorge1812](https://github.com/johnsgeorge1812)  
 
 ---
 
-### 🎓 **Certifications**
-- **Elevate Python Programming Course**  
-  Illinois Institute of Technology, US (Oct 2023 – July 2024)  
-  🏫 Entri Software Pvt Ltd, Kochi, Kerala  
+## 🌟 About Me  
 
-  - Mastered web development tools: HTML, CSS, JavaScript  
-  - Gained experience with Django to create fully functional websites  
-  - Projects: Online Learning Platform, Issue Tracker  
-  - Deployed projects on **PythonAnywhere**  
+I am a passionate **Python Django Developer** with experience in creating robust, scalable, and visually appealing web applications. My journey includes working on cloud deployment platforms like **PythonAnywhere** and integrating modern web technologies to deliver full-stack solutions.  
 
 ---
 
-### 📂 **My Projects**
-#### 1. **College Event Arts – Online Event Booking**  
-> 🧩 [Repository Link](#) | 🌐 [Live Demo](#)  
-
-- Developed a Django-based platform for booking college events.  
-- Features include **dynamic views**, templates, and admin configuration.  
-- Deployed successfully on **PythonAnywhere**.
-
-#### 2. **Ecommerce App – Online Purchase Platform**  
-> 🧩 [Repository Link](#) | 🌐 [Live Demo](#)  
-
-- Created a Django-powered shopping platform.  
-- Features: **User authentication**, shopping cart, checkout system.  
-- Deployed on **PythonAnywhere**.
+## 🛠️ **Technical Skills**  
+- **Programming**: Python, Django  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Cloud Platforms**: PythonAnywhere, AWS  
+- **OS & Tools**: Unix  
 
 ---
 
-### 🌐 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/johns-george-pythondev/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/johnsgeorge1812)  
-📧 Email: [johnsgeorge320@gmail.com](mailto:johnsgeorge320@gmail.com)  
-📞 Phone: +91-9633565413  
+## 🎓 **Certifications**  
+
+### **Elevate Python Programming Course**  
+📝 Illinois Institute of Technology, US (Oct 2023 – July 2024)  
+🔗 Conducted by: Entri Software Pvt Ltd, Kochi, Kerala  
+
+**Key Learnings**:  
+- Web development techniques: HTML, CSS, JavaScript  
+- Integration of Python Django to create fully functional websites  
+- Project deployment on PythonAnywhere  
+
+### **Projects Completed**:  
+1. **Online Learning Platform**  
+2. **Issue Tracker**  
 
 ---
 
-### 🎯 **Fun Fact**  
-💡 *"Programming isn't about what you know; it's about what you can figure out!"*
+## 🌍 **Projects**  
+
+### **College Event Arts – Online Event Booking**  
+- Built with Django: dynamic models, views, and templates (HTML, CSS, JS).  
+- Configured Django Admin interface.  
+- Deployed on PythonAnywhere.  
+
+### **Ecommerce App – Online Purchase Platform**  
+- User authentication, shopping cart, and checkout system.  
+- Responsive design with modern frontend.  
+- Deployed on PythonAnywhere.  
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=johnsgeorge1812&color=blue)
+## 💡 **Soft Skills**  
+- Effective Communication  
+- Active Listening  
+- Teamwork  
+- Time Management  
 
 ---
 
-### 🌟 **GitHub Stats**  
-![Johns' GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnsgeorge1812&show_icons=true&theme=radical)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsgeorge1812&layout=compact&theme=radical)](https://github.com/johnsgeorge1812)
+## 🖼️ **Portfolio Preview**  
+
+![Project Screenshot](https://via.placeholder.com/600x300?text=Project+Screenshot)  
+_A preview of one of my projects demonstrating UI and functionality._  
 
 ---
 
-Thank you for visiting! 😊
+## 🔗 **Connect with Me**  
+
+Feel free to explore my repositories, contribute, or reach out to collaborate on exciting projects!  
+
+💌 **Email**: [johnsgeorge320@gmail.com](mailto:johnsgeorge320@gmail.com)  
+🌐 **LinkedIn**: [linkedin.com/in/johns-george-pythondev](https://linkedin.com/in/johns-george-pythondev)  
+📂 **GitHub**: [github.com/johnsgeorge1812](https://github.com/johnsgeorge1812)  
