@@ -1,24 +1,24 @@
-# 👋 Hi, I'm **Johns George Kurukoor**  
-### 🚀 Python Django Developer  
+# 👋 Hi there! I'm **Johns George Kurukoor**  
+### 🚀 Python Django Developer | Cloud Enthusiast  
 
-🌍 Based in **Muvattupuzha, Kerala, India**  
+🌍 **Location**: Muvattupuzha, Kerala, India  
 📫 **Email**: [johnsgeorge320@gmail.com](mailto:johnsgeorge320@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/johns-george-pythondev](https://linkedin.com/in/johns-george-pythondev)  
-📁 **GitHub**: [github.com/johnsgeorge1812](https://github.com/johnsgeorge1812)  
-
----
-
-## 🌟 About Me  
-
-I am a passionate **Python Django Developer** with experience in creating robust, scalable, and visually appealing web applications. My journey includes working on cloud deployment platforms like **PythonAnywhere** and integrating modern web technologies to deliver full-stack solutions.  
+📂 **GitHub**: [github.com/johnsgeorge1812](https://github.com/johnsgeorge1812)  
 
 ---
 
 ## 🛠️ **Technical Skills**  
-- **Programming**: Python, Django  
-- **Frontend**: HTML, CSS, JavaScript  
-- **Cloud Platforms**: PythonAnywhere, AWS  
-- **OS & Tools**: Unix  
+- **Languages & Frameworks**:  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) 
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+- **Tools & Platforms**:  
+  ![Unix](https://img.shields.io/badge/-Unix-333333?style=flat&logo=linux&logoColor=white) 
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+  ![PythonAnywhere](https://img.shields.io/badge/-PythonAnywhere-0066CC?style=flat&logo=python&logoColor=white)  
 
 ---
 
@@ -28,50 +28,38 @@ I am a passionate **Python Django Developer** with experience in creating robust
 📝 Illinois Institute of Technology, US (Oct 2023 – July 2024)  
 🔗 Conducted by: Entri Software Pvt Ltd, Kochi, Kerala  
 
-**Key Learnings**:  
-- Web development techniques: HTML, CSS, JavaScript  
-- Integration of Python Django to create fully functional websites  
-- Project deployment on PythonAnywhere  
-
-### **Projects Completed**:  
-1. **Online Learning Platform**  
-2. **Issue Tracker**  
+**Key Takeaways**:  
+- Built web development projects using **Python Django**.  
+- Learned and implemented deployment on **PythonAnywhere**.  
+- Created projects like an **Online Learning Platform** and an **Issue Tracker**.
 
 ---
 
-## 🌍 **Projects**  
+## 🌟 **Featured Projects**  
 
-### **College Event Arts – Online Event Booking**  
-- Built with Django: dynamic models, views, and templates (HTML, CSS, JS).  
-- Configured Django Admin interface.  
-- Deployed on PythonAnywhere.  
+### [College Event Arts – Online Event Booking](https://github.com/johnsgeorge1812/college-event-arts)  
+🎨 **Tech Stack**: Django, HTML, CSS, JS  
+🚀 **Highlights**:  
+- Dynamic event booking system with admin configuration.  
+- Fully responsive design.  
+- Hosted on **PythonAnywhere**.  
 
-### **Ecommerce App – Online Purchase Platform**  
-- User authentication, shopping cart, and checkout system.  
-- Responsive design with modern frontend.  
-- Deployed on PythonAnywhere.  
-
----
-
-## 💡 **Soft Skills**  
-- Effective Communication  
-- Active Listening  
-- Teamwork  
-- Time Management  
+### [Ecommerce App – Online Purchase Platform](https://github.com/johnsgeorge1812/ecommerce-app)  
+🛍️ **Tech Stack**: Django, HTML, CSS, JS  
+🚀 **Highlights**:  
+- Shopping cart and secure checkout system.  
+- User authentication and authorization.  
+- Hosted on **PythonAnywhere**.  
 
 ---
 
-## 🖼️ **Portfolio Preview**  
+## 🌐 **Connect with Me**  
+I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out!  
 
-![Project Screenshot](https://via.placeholder.com/600x300?text=Project+Screenshot)  
-_A preview of one of my projects demonstrating UI and functionality._  
-
----
-
-## 🔗 **Connect with Me**  
-
-Feel free to explore my repositories, contribute, or reach out to collaborate on exciting projects!  
-
-💌 **Email**: [johnsgeorge320@gmail.com](mailto:johnsgeorge320@gmail.com)  
-🌐 **LinkedIn**: [linkedin.com/in/johns-george-pythondev](https://linkedin.com/in/johns-george-pythondev)  
+📫 **Email**: [johnsgeorge320@gmail.com](mailto:johnsgeorge320@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/johns-george-pythondev](https://linkedin.com/in/johns-george-pythondev)  
 📂 **GitHub**: [github.com/johnsgeorge1812](https://github.com/johnsgeorge1812)  
+
+---
+
+🎯 *"Let's build something amazing together!"*
